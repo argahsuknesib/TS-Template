@@ -1,1 +1,5 @@
-### A template for my typescript projects.
+# Name of the package
+
+# Usage
+
+# License
